@@ -1,0 +1,16 @@
+PODS:
+  - YZTestKit (0.1.0)
+
+DEPENDENCIES:
+  - YZTestKit (from `../`)
+
+EXTERNAL SOURCES:
+  YZTestKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YZTestKit: 675ba73baf99a89ad0ccc56b3289a7ecaaf143df
+
+PODFILE CHECKSUM: 7837c563764c9e88c1ea7f33aceccd377a540791
+
+COCOAPODS: 1.9.2
