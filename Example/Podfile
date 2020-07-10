@@ -1,9 +1,12 @@
+source 'https://github.com/YouZoudeFish/ZMPrivateTest.git'
+source 'https://github.com/CocoaPods/Specs.git'
+
 use_frameworks!
 
 platform :ios, '8.0'
 
 target 'YZTestKit_Example' do
-  pod 'YZTestKit', :path => '../'
+  pod 'YZTestKit'
 
   target 'YZTestKit_Tests' do
     inherit! :search_paths
